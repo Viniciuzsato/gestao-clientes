@@ -1,0 +1,30 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\bin\Debug\net6.0\Servico.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\bin\Debug\net6.0\Servico.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\bin\Debug\net6.0\Servico.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\bin\Debug\net6.0\Dominio.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\bin\Debug\net6.0\Dominio.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\refint\Servico.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\Servico.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Servico\obj\Debug\net6.0\ref\Servico.dll
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\bin\Debug\net6.0\Servico.deps.json
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\bin\Debug\net6.0\Servico.dll
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\bin\Debug\net6.0\Servico.pdb
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\bin\Debug\net6.0\Dominio.dll
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\bin\Debug\net6.0\Dominio.pdb
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.AssemblyInfo.cs
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.csproj.CopyComplete
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.dll
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\refint\Servico.dll
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\Servico.pdb
+C:\Users\vinic\Documents\asp.net\projetoGestaoCliente\ProvaPratica\Servico\obj\Debug\net6.0\ref\Servico.dll
